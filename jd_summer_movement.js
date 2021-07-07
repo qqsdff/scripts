@@ -2,8 +2,10 @@
 
 https://wbbny.m.jd.com/babelDiy/Zeus/2rtpffK8wqNyPBH6wyUDuBKoAbCt/index.html
 
-jd_summer_movement
+12 9,11,13,15,17 * * * https://raw.githubusercontent.com/smiek2221/scripts/master/jd_summer_movement.js
 
+需要解密
+https://raw.githubusercontent.com/smiek2221/scripts/master/MovementFaker.js
 
 */
 const $ = new Env('燃动夏季');
